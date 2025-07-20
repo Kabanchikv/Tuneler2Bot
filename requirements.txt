@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+aiosqlite
+aiogram
+python-dotenv
+requests
+cryptography
+toml
+alembic
+pydantic
+pydantic-settings
+python-multipart
+yookassa
