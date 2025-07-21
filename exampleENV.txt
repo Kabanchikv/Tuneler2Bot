@@ -1,0 +1,14 @@
+BOT_TOKEN=ваш_токен_бота
+ADMIN_PASSWORD=secret_admin_password
+CRYPTOCLOUD_API_KEY=ваш_ключ_cryptocloud
+CRYPTOCLOUD_SHOP_ID=ваш_shop_id_cryptocloud
+CRYPTOCLOUD_WEBHOOK_SECRET=ваш_секрет_вебхука
+YOOKASSA_SHOP_ID=ваш_shop_id_yookassa
+YOOKASSA_SECRET_KEY=ваш_секретный_ключ_yookassa
+FRP_SERVER_ADDR=frp.example.com
+FRP_SERVER_PORT=7000
+FRP_DOMAIN=frp.example.com
+WEBHOOK_SECRET=super_secret_token
+BASE_WEBHOOK_URL=https://ваш_домен
+SSL_CERT_PATH=
+SSL_KEY_PATH=
